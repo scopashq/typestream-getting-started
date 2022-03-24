@@ -1,0 +1,7 @@
+/node_modules
+/sample-data
+/builds
+/dump.json
+.DS_Store
+/output
+/dump-files

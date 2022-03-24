@@ -1,0 +1,16 @@
+{
+  "name": "typestream-getting-started",
+  "typestreamProject": true,
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "@typestream/core": "^0.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "16",
+    "typescript": "^4.7.0-dev.20220320"
+  }
+}

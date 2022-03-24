@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "dist",
+    "strict": true,
+    "declaration": true,
+    "target": "ES2021",
+    "lib": [
+      "ES2021"
+    ],
+    "module": "NodeNext",
+    "types": [
+      "./src/pipes/generated-types/type-map.js"
+    ]
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
